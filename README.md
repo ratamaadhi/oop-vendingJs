@@ -16,3 +16,8 @@ Buatlah Object Oriented Program yang dapat menjalankan fungsi-fungsi sbb:
 result:
 - untuk melihat atau menjalankan code anda bisa buka file index.html -> lalu "inspect" halaman -> buka console.
 - dalam console anda bisa mencoba menjalankan program yg telah dibuat
+
+![image](https://user-images.githubusercontent.com/35319616/175823088-111f958a-a302-4325-b796-0567d613ed76.png)
+
+keterangan:
+- dalam console tersebut pada bagian vendingJs -> Vending, terdapat bebera object method yg telah dibuat untuk merubah data sesuai studi kasus yg diberikan.
